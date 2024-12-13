@@ -34,8 +34,8 @@ a execução das três últimas células do arquivo Colab.
 
 Os arquivos "rotulos.py" e "app.py" são a programação para o Streamlit App. Para o usuário executar, 
 ele deve fazer download deles e do arquivo "embeddings.pkl" e digitar os comandos a seguir no terminal:
-pip install torch transformers sklearn plotly streamlit (para download de bibliotecas)
-streamlit run app.py (para execução).
+#pip install torch transformers sklearn plotly streamlit (para download de bibliotecas)
+#streamlit run app.py (para execução).
 
 
 
